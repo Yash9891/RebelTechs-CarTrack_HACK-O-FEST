@@ -1,6 +1,6 @@
 # RebelTechs Hack-O-Fest
 
-## Visit our website [CarTrack](https://cartrack-rebeltechs.netlify.app/)).
+## Visit our website [CarTrack](https://cartrack-rebeltechs.netlify.app/).
 
 CarTrack is a visually stunning website dedicated to showcasing various car models. 
 Whether you're a car enthusiast, a prospective buyer, or simply appreciate the beauty of automobiles, CarTrack offers a delightful browsing experience. 
